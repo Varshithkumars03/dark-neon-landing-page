@@ -1,0 +1,13 @@
+# Responsive Hero Page
+
+A modern responsive landing section built using HTML and CSS Flexbox.
+
+## Features
+- Flexbox layout
+- Mobile responsive design
+- Smooth hover effects
+- Clean dark UI
+
+## Technologies
+- HTML5
+- CSS3 (Flexbox & Media Queries)
